@@ -1,6 +1,12 @@
 {
-   "webcredentials": {
-       "apps": [    "D3KQX62K1A.com.example.DemoApp",
-                    "D3KQX62K1A.com.example.DemoAdminApp" ]
-    }
+  "activitycontinuation": {
+    "apps": [
+      "7QXYLT27C4.fm.overcast.overcast"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "7QXYLT27C4.fm.overcast.overcast"
+    ]
+  }
 }
